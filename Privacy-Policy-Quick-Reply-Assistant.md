@@ -61,8 +61,6 @@ We may share data only:
 ## Third-Party Services
 
 The Extension uses third-party AI services:
-- **OpenAI API:** For response generation (governed by OpenAI's Privacy Policy)
-- **Anthropic API:** For response generation (governed by Anthropic's Privacy Policy)
 - **OpenRouter API:** For response generation (governed by OpenRouter's Privacy Policy)
 
 ## Your Rights
